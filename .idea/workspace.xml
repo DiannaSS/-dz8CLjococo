@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="192a89a0-525a-4237-b028-db44e86d4c37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -47,6 +46,15 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.StatisticsServiceTest">
+    <configuration name="StatisticsService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DZ8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StatisticsService" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StatisticsServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DZ8" />
       <option name="PACKAGE_NAME" value="" />
@@ -69,6 +77,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.StatisticsServiceTest" />
+        <item itemvalue="JUnit.StatisticsService" />
         <item itemvalue="JUnit.StatisticsServiceTest.findMax" />
       </list>
     </recent_temporary>
@@ -94,5 +103,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DZ8$StatisticsServiceTest.ic" NAME="StatisticsServiceTest Coverage Results" MODIFIED="1661018139458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
